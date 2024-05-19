@@ -1,3 +1,4 @@
 Conocimientos Previos en programación:
 He hecho un curso de Cero a Programados antes de ingresar de lleno al Master en el que he aprendido:
 - Conceptos Básicos de JS
+- Conceptos Básicos de Python
